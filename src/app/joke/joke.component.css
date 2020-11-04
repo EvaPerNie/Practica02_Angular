@@ -1,0 +1,8 @@
+*{
+    background-color: lightgreen;
+}
+
+.btn-delete{
+    float: right;
+    margin-right: 10px;
+}

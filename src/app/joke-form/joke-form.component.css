@@ -1,0 +1,23 @@
+.card-block{
+    background-color: khaki;
+}
+.form-group{
+    margin-top: 5px;
+}
+
+.form-control{
+    font-size: 13px;
+    border-radius: 5px;
+    border-style: inset;
+    width: 95%;
+    height: 40px;
+}
+
+.btn{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+
+
+  

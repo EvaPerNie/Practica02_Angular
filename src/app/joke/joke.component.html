@@ -1,0 +1,6 @@
+<div class="card card-block">
+    <h4 class="card-title">{{joke.setup}}</h4>
+    <p class="card-text" [hidden]="joke.hide">{{joke.punchline}}</p>
+    <button type="button" class="btn" (click)="joke.toggle()">Tell me</button>
+    <button type="button" class="btn btn-delete" (click)="deleteJoke()">Remove</button>
+</div>
